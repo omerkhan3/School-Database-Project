@@ -1,0 +1,6 @@
+S:  Name: Michael  Smith  Student ID: 8472   Age: 28   Gender: M  GPA: 4.0
+S:  Name: Bob  Allen  Student ID: 923   Age: 20   Gender: M  GPA: 8
+FE: Name: Bob  Bob   Age: 29   Gender: F   Department Name: Soc   Wages: $80000
+S:  Name: rick  jones  Student ID: 8923   Age: 59   Gender: M  GPA: 3.7
+PE: Name: bob smith   Age: 19   Gender: f  Department Name: chem   Wages: $320
+S:  Name: lebron james  Student ID: 9234   Age: 28   Gender: F  GPA: 3.2
